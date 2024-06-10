@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mind-flayers/LearnReactJS/static/css/main.a86bda18.css",
+    "main.js": "/mind-flayers/LearnReactJS/static/js/main.b84b13af.js",
+    "index.html": "/mind-flayers/LearnReactJS/index.html",
+    "main.a86bda18.css.map": "/mind-flayers/LearnReactJS/static/css/main.a86bda18.css.map",
+    "main.b84b13af.js.map": "/mind-flayers/LearnReactJS/static/js/main.b84b13af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.b84b13af.js"
+  ]
+}
