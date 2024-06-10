@@ -11,7 +11,7 @@ import "./App.css";
 const App = () => {
     return (
         <div className="App">
-            <Header />
+            <Header title="The Tasker App"/>
             <Content />
             <Footer />
         </div>
